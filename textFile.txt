@@ -3,7 +3,4 @@ Stuff
 0
 1
 some more things
-<<<<<<< HEAD
-=======
 dev changes
->>>>>>> dev
